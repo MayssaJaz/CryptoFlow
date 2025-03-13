@@ -1,0 +1,1 @@
+fetch_data_url = "https://api.coincap.io/v2/assets"
